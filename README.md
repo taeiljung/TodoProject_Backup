@@ -1,5 +1,41 @@
-# 230921, 작업물 개인 리포지토리로 이전작업
-> test0415 -> CRUD_repo -> TodoProject_Backup
+# 개요
+
+> 본 프로젝트는 한국폴리텍대학I 서울정수캠퍼스, 인공지능 소프트웨어과 3조의 팀 프로젝트 작업물입니다.
+>
+> 저작권 및 책임은 [3조](https://github.com/PolyQuadO)(QUADO)에 있습니다 (2차 창작 및 무단 배포 불가합니다.)
+>
+> 아울러, API 등 보안상의 이유로 팀 리포지토리는 비공개됨을 알립니다 :)
+> 
+> test0415 -> CRUD_repo -> TodoProject_Backup | 팀 작업물 -> 개인 리포지토리로 복사 이전하였습니다.
+
+
+
+# Settings
+> 프로젝트 초기설정
+
+| 항  목 | 이미지 |
+| ------ | ------ |
+| Firebase | ![image](https://github.com/taeiljung/TodoProject_Backup/assets/101981637/393fcaa8-5914-4d28-a4f9-a307347fa593) |
+
+>>> 이 구간에 flutter 및 dart 기본설정 추가기재예정
+
+# Design(Figma)
+
+* [초기 UX/UI 디자인 피그마 프로젝트 ](https://www.figma.com/file/saVDRCGSsypmRSMtZO4w2n/QuadO?type=design&mode=design/) , 작업물 홈페이지로 이동합니다
+
+| 항  목 | 이미지 |
+| ------ | ------ |
+| 전  체 | ![image](https://github.com/taeiljung/TodoProject_Backup/assets/101981637/fb3553c8-b8b7-40fd-863d-0033c1f77492) |
+| 인  앱 | ![image](https://github.com/taeiljung/TodoProject_Backup/assets/101981637/8ba6cbd5-26dc-4d9b-923a-70c16c2d2950) |
+
+
+
+
+# Output
+
+>>> 이 구간에 ANDROID , WEB 등의 작동사진 추가예정
+
+
 
 
 ## ______이하 개발환경 setting 현황_____
