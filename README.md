@@ -1,7 +1,10 @@
 # 230921, 작업물 개인 리포지토리로 이전작업
 
-# test0415 -> CRUD_repo
-## 이하 개발환경 setting 현황
+
+
+# test0415 -> CRUD_repo -> TodoProject_Backup
+
+## ______이하 개발환경 setting 현황_____
 
 ## flutter --version   
 >Flutter 3.7.11 • channel stable • https://github.com/flutter/flutter.git   
