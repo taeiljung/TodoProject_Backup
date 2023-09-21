@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "703927130700",
+    "project_id": "quado-jjkl",
+    "storage_bucket": "quado-jjkl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703927130700:android:c53d4b9bb1987a196c32e9",
+        "android_client_info": {
+          "package_name": "com.example.test0415"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703927130700-cjttg2f7bmta29bnr54365tmbfdv97s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwurV1uQr3cifPtv9WYRYEql-Dl1uBsF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703927130700-cjttg2f7bmta29bnr54365tmbfdv97s3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703927130700-i60ems4safi4e4hs998k266s9hhv45le.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.test0415"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
