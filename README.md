@@ -1,8 +1,6 @@
 # 230921, 작업물 개인 리포지토리로 이전작업
+> test0415 -> CRUD_repo -> TodoProject_Backup
 
-
-
-# test0415 -> CRUD_repo -> TodoProject_Backup
 
 ## ______이하 개발환경 setting 현황_____
 
